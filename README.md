@@ -2,6 +2,8 @@
 
 Esta app ha sido creada en una clase de la asignatura [Desarrollo de Aplicaciones para Internet](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/desarrollo-aplicaciones-internetetecin), impartida en la [Universidad de Granada](https://www.ugr.es/) en el grado de [Ingeniería Informática](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica)
 
+Puedes visitar la pagina [aquí](https://raultl12.github.io/DogsWebApp/)
+
 La app simplemente hace una consulta a una API para solicitar una foto aleatoria de un perro, que después muestra en la página. 
 
 Ha servido para practicar el uso de useState y useEffect, además del fetching de datos
